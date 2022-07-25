@@ -1,0 +1,33 @@
+
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.first {
+
+    background-color: pink
+    
+}
+
+.third {
+    background-color: pink;
+    font-size: 25px;
+}
+
+.fifth {
+    background-color: pink;
+    font-size: medium;
+}
+
+#second {
+    color: blue;
+    font-size: 40px;
+    font-style: bold;
+}
+
+#fourth {
+
+    background-color: rgb(127, 255, 144);
+    font-size: 36px;
+
+}
